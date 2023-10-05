@@ -1,3 +1,5 @@
+#to fetch questions from opentdb API
+
 import requests
 from requests import *
 
