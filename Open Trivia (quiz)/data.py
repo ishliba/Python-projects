@@ -15,6 +15,4 @@ api_question = response.json()
 
 question_data = api_question["results"]
 
-print(question_data)
-print(api_question)
 
